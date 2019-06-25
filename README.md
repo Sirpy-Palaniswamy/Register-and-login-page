@@ -21,13 +21,19 @@ First create the "template" folder inside the project folder manually, then usin
 Second create a "includes" folder inside the template folder.
 
 Then we put these files in the folder accordingly:
-     layout.html - template folder,
-     home.html - template folder,
-     register.html - template folder,
-     login.html - template folder,
-     message.html(Please put an underscore in front of the message word) - includes folder,
-     photo.html - template folder,
-     app.py - <projectname> folder.
+     layout.html - template folder
+     
+     home.html - template folder
+     
+     register.html - template folder
+     
+     login.html - template folder
+     
+     message.html(Please put an underscore in front of the message word) - includes folder
+     
+     photo.html - template folder
+     
+     app.py - <projectname> folder
 
 After finishing everything run the python file after directing yourself to the directory where the python file was created.
         
