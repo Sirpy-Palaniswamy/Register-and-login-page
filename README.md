@@ -1,5 +1,6 @@
 # Register-and-login-page
 # Its very important that you change the names of the files inside the code if you are changing the file names to your use
+## If any problem with other editors use VScode
 ## I used the names as stated below:
 ## Folder name of the project was registerlogin and the python file name was app.py
 ## layout.html
