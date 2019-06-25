@@ -21,6 +21,7 @@ First create the "template" folder inside the project folder manually, then usin
 Second create a "includes" folder inside the template folder.
 
 Then we put these files in the folder accordingly:
+
      layout.html - template folder
      
      home.html - template folder
