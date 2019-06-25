@@ -1,6 +1,14 @@
 # Register-and-login-page
 # Its very important that you change the names of the files inside the code if you are changing the file names to your use
-## I used the names as stated in lines 13 to 19 and the folder name of the project was registerlogin and the python file name was app.py
+## I used the names as stated below:
+## Folder name of the project was registerlogin and the python file name was app.py
+## layout.html
+## home.html
+## register.html
+## login.html 
+## message.html
+## photo.html
+
 People need to install these if not installed in their computers:
   pip install flask
   pip install flask-sqlalchemy
